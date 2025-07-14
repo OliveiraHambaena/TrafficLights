@@ -22,7 +22,7 @@
 }
 
 .red.active {
-    background: red;
+    background: rgb(230, 72, 72);
     box-shadow: 0 0 20px red; /* Add glow effect */
 }
 
